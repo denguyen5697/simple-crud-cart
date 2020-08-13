@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/simple-crud-cart/static/js/main.66779cf1.chunk.js",
+    "main.js.map": "/simple-crud-cart/static/js/main.66779cf1.chunk.js.map",
+    "runtime-main.js": "/simple-crud-cart/static/js/runtime-main.3e67cd74.js",
+    "runtime-main.js.map": "/simple-crud-cart/static/js/runtime-main.3e67cd74.js.map",
+    "static/js/2.92cabeaf.chunk.js": "/simple-crud-cart/static/js/2.92cabeaf.chunk.js",
+    "static/js/2.92cabeaf.chunk.js.map": "/simple-crud-cart/static/js/2.92cabeaf.chunk.js.map",
+    "index.html": "/simple-crud-cart/index.html",
+    "precache-manifest.bff152dc0d277209c96212254c6a1b8b.js": "/simple-crud-cart/precache-manifest.bff152dc0d277209c96212254c6a1b8b.js",
+    "service-worker.js": "/simple-crud-cart/service-worker.js",
+    "static/js/2.92cabeaf.chunk.js.LICENSE.txt": "/simple-crud-cart/static/js/2.92cabeaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e67cd74.js",
+    "static/js/2.92cabeaf.chunk.js",
+    "static/js/main.66779cf1.chunk.js"
+  ]
+}
